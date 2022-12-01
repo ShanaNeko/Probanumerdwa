@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Probanumerdwa</string>
+    <string name="b1"><![CDATA[->]]></string>
+    <string name="b2"><![CDATA[<-]]></string>
+    <string name="cat">TODO</string>
+    <string name="silnia">Silnia</string>
+    <string name="wpisz_liczb">Wpisz liczbę</string>
+    <string name="poka_wynik_silni">Pokaż wynik silni</string>
+</resources>

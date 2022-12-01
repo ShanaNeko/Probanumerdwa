@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Probanumerdwa" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#612444</item>
+        <item name="colorPrimaryDark">#9E5074</item>
+        <item name="colorAccent">#4C1C2D</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
